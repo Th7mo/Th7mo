@@ -1,5 +1,5 @@
-### Hi there 👋
-
+## Hi there 👋
+My name is Thimo and I am studing Software Engineering at the Hogeschool Leiden in The Netherlands.
 <!--
 **Th7mo/Th7mo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Current Projects
+- SubsidyIndicator 🌳: a schoolproject application that will guide journalists using a decision tree. For this project we are using Java(FX), Spring Boot and Angular. 
+- SubnetCalculator 🖩: reprogramming & refactoring my older program that calculates subnets based on a given IP-address and subnetmask.
+- SpotifyToYoutube 🎵: a program that converts Spotify playlists to Youtube (Music) playlists.
