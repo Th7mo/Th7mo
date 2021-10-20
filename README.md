@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Thimo and I am studing Software Engineering at the Hogeschool Leiden in The Netherlands.
+My name is Thimo and I am studying Software Engineering at the Hogeschool Leiden in The Netherlands.
 <!--
 **Th7mo/Th7mo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
