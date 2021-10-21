@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - SubsidyIndicator 🌳: a schoolproject application that will guide journalists using a decision tree. For this project we are using Java(FX), Spring Boot and Angular. 
 - SubnetCalculator 🖩: reprogramming & refactoring my older program that calculates subnets based on a given IP-address and subnetmask.
 - SpotifyToYoutube 🎵: a program that converts Spotify playlists to Youtube (Music) playlists.
-- ThemoO 🔌: maintaining and improving my jetbrains minimalistic dark-theme plugin 
+- ThemeO 🔌: maintaining and improving my jetbrains minimalistic dark-theme plugin 
