@@ -30,5 +30,7 @@ My name is Thimo and I am studying Software Engineering at the Hogeschool Leiden
 
 <h2 align="center"Repositories</h2>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Th7mo/SpotifyToYoutube" title="SpotifyToYoutube"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Th7mo&repo=SpotifyToYoutube&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/Th7mo/IPRO2" title="IPRO2"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Th7mo&repo=IPRO2&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Th7mo/SpotifyToYoutube" title="SpotifyToYoutube"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Th7mo&repo=SpotifyToYoutube&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Th7mo/IPRO2" title="IPRO2"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Th7mo&repo=IPRO2&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
+<br/><br/><br/><br/><br/><br/>
