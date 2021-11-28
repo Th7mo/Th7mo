@@ -4,8 +4,8 @@ My name is Thimo and I am studying Software Engineering at the Hogeschool Leiden
 ### Current Projects
 - SpotifyToYoutube 🎵: a program that converts Spotify playlists to Youtube (Music) playlists.
 - SubsidyIndicator 🌳: a schoolproject application that will guide journalists using a decision tree. For this project we are using Java(FX), Spring Boot and Angular. 
-- ThemeO 🔌: maintaining and improving my jetbrains minimalistic dark-theme plugin
 - SubnetCalculator 🖩: reprogramming & refactoring my older program that calculates subnets based on a given IP-address and subnetmask.
+- Learning Kotlin
 
 <p align=center>
   <div align=center>
