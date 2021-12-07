@@ -8,7 +8,7 @@ My name is Thimo and I am studying Software Engineering at the Hogeschool Leiden
 - Learning Kotlin
 
 <br>
-<img align="left" width="100%" src="https://github.com/th7mo/th7mo/blob/master/github-metrics.svg">
+<img width="100%" src="https://github.com/th7mo/th7mo/blob/master/github-metrics.svg">
 
 <br><br><br><br><br><br><br>
 
