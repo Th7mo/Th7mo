@@ -21,3 +21,11 @@ jobs:
           base: activity
           config_timezone: Europe/Berlin
           plugin_lines: yes
+          
+      - uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.lines.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: repositories
+          plugin_lines: yes
+          delay: 120
