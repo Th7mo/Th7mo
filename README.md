@@ -7,20 +7,13 @@ My name is Thimo and I am studying Software Engineering at the Hogeschool Leiden
 - SubnetCalculator 🖩: reprogramming & refactoring my older program that calculates subnets based on a given IP-address and subnetmask.
 - Learning Kotlin
 
-<p align=center>
-  <div align=center>
-    <img align="left" width="500" src="https://github.com/th7mo/th7mo/blob/master/github-metrics.svg">
-    <br><br><br><br>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Th7mo&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br><br>
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Th7mo&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
+<br>
 
+<img align="left" width="100%" src="https://github.com/th7mo/th7mo/blob/master/github-metrics.svg">
 
+<br><br><br><br><br><br><br>
+
+<img src="https://activity-graph.herokuapp.com/graph?username=Th7mo&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
