@@ -7,8 +7,7 @@ My name is Thimo and I am studying Software Engineering at the Hogeschool Leiden
 - SubnetCalculator 🖩: reprogramming & refactoring my older program that calculates subnets based on a given IP-address and subnetmask.
 - Learning Kotlin
 
-<br>
-<img src="https://github.com/th7mo/th7mo/blob/master/github-metrics.svg" width ="100%"/>
+<img src="https://github.com/th7mo/th7mo/blob/master/github-metrics.svg" width ="120%"/>
 
 <br><br><br><br><br><br><br>
 
