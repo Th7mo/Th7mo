@@ -18,7 +18,6 @@ jobs:
           # Options
           user: th7mo
           template: classic
-          base: activity, repositories
-          config_display: columns
+          base: activity
           config_timezone: Europe/Berlin
           plugin_lines: yes
