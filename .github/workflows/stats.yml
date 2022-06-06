@@ -19,6 +19,8 @@ jobs:
         with:
           filename: introduction.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          plugin_lines: yes
+          plugin_traffic: yes
     
       - name: Languages
         if: ${{ success() || failure() }}
@@ -34,8 +36,6 @@ jobs:
           plugin_languages_ignored: Dart, html, css, sass, scss, dockerfile, makefile, shell, cmake
           plugin_languages_skipped: Th7mo/F12_Mobile
           plugin_languages_aliases: RenderScript:Rust
-          plugin_lines: yes
-          plugin_traffic: yes
           
       - name: Habits
         if: ${{ success() || failure() }}
