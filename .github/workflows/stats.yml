@@ -31,3 +31,4 @@ jobs:
           plugin_habits_facts: no
           
           plugin_lines: yes
+          plugin_traffic: yes
