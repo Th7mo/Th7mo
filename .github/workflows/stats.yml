@@ -20,5 +20,3 @@ jobs:
           plugin_languages_in_depth: yes
           plugin_languages_ignored: Dart, html, css, dockerfile, makefile, shell, cmake
           plugin_languages_skipped: Th7mo/F12_Mobile
-          plugin_activity: yes
-          
