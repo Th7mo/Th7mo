@@ -17,6 +17,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           
           config_timezone: Europe/Amsterdam
+          config_display: columns
           
           plugin_languages: yes
           plugin_languages_indepth: yes
