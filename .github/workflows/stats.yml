@@ -29,3 +29,4 @@ jobs:
           plugin_habits_charts_type: chartist
           plugin_habits_facts: no
           
+          plugin_lines: yes
