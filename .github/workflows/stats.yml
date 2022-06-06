@@ -17,5 +17,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           
           plugin_languages: yes
+          plugin_languages_in_depth: yes
+          plugin_languages_ignored: CMake, C++, Dart, html, css, dockerfile, makefile, shell
           plugin_activity: yes
           
