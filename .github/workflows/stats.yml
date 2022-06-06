@@ -17,6 +17,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           
           plugin_languages: yes
-          plugin_languages_in_depth: yes
+          plugin_languages_indepth: yes
           plugin_languages_ignored: Dart, html, css, sass, scss, dockerfile, makefile, shell, cmake
           plugin_languages_skipped: Th7mo/F12_Mobile
