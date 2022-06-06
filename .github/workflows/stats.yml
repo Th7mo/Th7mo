@@ -22,3 +22,4 @@ jobs:
           commits_authoring: thimo@th7mo.nl, thimoquinten@gmail.com
           plugin_languages_ignored: Dart, html, css, sass, scss, dockerfile, makefile, shell, cmake
           plugin_languages_skipped: Th7mo/F12_Mobile
+          plugin_languages_aliases: RenderScript:Rust
